@@ -23,4 +23,3 @@ const pessoa = {
 }
 pessoa.andar();
 
-console.lo

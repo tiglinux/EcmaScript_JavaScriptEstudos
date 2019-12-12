@@ -1,7 +1,7 @@
 //return
 //retorna um valor
-function soma(a, b) {
-  return a + b;
+function mult(a, b) {
+  return a * b;
 }
 //Cria uma função que retorna atributo de objeto.
 function criaPessoa(nome, sobrenome) {
